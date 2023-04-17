@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdul Samad</h1>
 <h3 align="center">Full stack flutter developer, Google certified UX Designer</h3>
 
-- 🔭 A project I'm actively maintaining [App Sync](https://bit.ly/appsync1)
+- 🔭 A project I'm actively maintaining [[App Sync]](https://bit.ly/appsync1)
 
-- 👯 Recent ChatGPT project [Bot Write](https://bit.ly/botwrite)
+- 👯 Recent ChatGPT project [[Bot Write]](https://bit.ly/botwrite)
 
-- 🤝 Connect with me If you want to create products smaller segment of a niche market [PersonalWebsite](https://bit.ly/samadweb)
+- 🤝 Connect with me If you want to create products for smaller segment of a niche market [[PersonalWebsite]](https://bit.ly/samadweb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
